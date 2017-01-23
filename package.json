@@ -19,7 +19,8 @@
   ],
   "scripts": {
     "prepublish": "./pcejs_build",
-    "clean": "./pcejs_build clean"
+    "clean": "./pcejs_build clean",
+    "start": "./example/run_example macplus"
   },
   "homepage": "https://github.com/jsdf/pce",
   "bugs": "https://github.com/jsdf/pce/issues",
