@@ -20,7 +20,7 @@
   "scripts": {
     "prepublish": "./pcejs_build",
     "clean": "./pcejs_build clean",
-    "start": "./example/run_example macplus"
+    "start": "./example/run_example.sh macplus"
   },
   "homepage": "https://github.com/jsdf/pce",
   "bugs": "https://github.com/jsdf/pce/issues",
